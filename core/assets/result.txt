@@ -1,0 +1,8 @@
+RAPORT SYMULACJI ALGORYTMU ZASTÊPOWANIE STRON
+UZYTA METODA: FIFO
+Odwo³ania:	4	0	4	0	1	0	
+Tablica stron:
+Ramka nr 0:	4	4	4	4	4	4	
+Ramka nr 1:		0	0	0	0	0	
+Ramka nr 2:					1	1	
+Liczba braków stron: 3
